@@ -1,0 +1,33 @@
+body{
+    background-color:#000000;
+    color:#01FC19;
+    font-family:'Courier New', Courier, monospace;
+    padding: 50px;
+    text-align: center;
+
+}
+
+.title{
+    font-size: 18px;
+    color:#01FC19;
+    text-align: center;
+}
+.h3{
+    font-size: 18px;
+    color:#FF0000;
+    text-align: center;
+}
+button {
+border-radius: 25px;
+background-color:transparent;
+border-color:#FF0000;
+text-align: center;
+}
+button:hover{
+    border-radius: 25px;
+    background-color:#01FC19;
+    border-color:#FF0000;
+    cursor: pointer;
+    text-align: center;
+
+}
